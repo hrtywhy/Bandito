@@ -10,7 +10,7 @@
 </p>
 
 
-Bandito merujuk dari kata Bandit merupakan nama untuk repository yang berisi list aplikasi mobile yang sudah dilakukan analisia untuk melihat apakah aplikasinya melanggar data privacy atau tidak.
+Bandito berisi list aplikasi mobile yang sudah dilakukan analisia untuk melihat apakah aplikasinya melanggar data privacy atau tidak.
 
 ## Android
 
