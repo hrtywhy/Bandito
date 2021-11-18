@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/hrtywhy/Hanoman"><img width="400" src="assets/pict.png" alt="Hanoman"></a>
+  <img width="400" src="assets/pict.png" alt="Hanoman"></a>
   <br>
   <p1>Bandito</p1>
   <br>
