@@ -15,3 +15,10 @@ The App uses the encryption mode CBC with PKCS5/PKCS7 padding. This configuratio
 
 * ```CWE: CWE-276 Incorrect Default Permissions``` <br> <br>
 App can read/write to External Storage. Any App can read data written to External Storage.
+
+## Behaviour
+1. Application has no limit character in any text field
+2. Data application is stored locally
+
+## Unique Behaviour
+1. Prevent from screenshot
