@@ -11,7 +11,8 @@
 
 
 Bandito berisi list aplikasi mobile yang sudah dilakukan analisa untuk melihat apakah aplikasinya melanggar data privacy atau tidak.
-
+## List Apps
+* [Satria - Password Manager BSSN](https://github.com/hrtywhy/Bandito/blob/main/SATRIA%20-%20Password%20Manager/result.md)
 ## Android
 
 ### Tools
